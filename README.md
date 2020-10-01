@@ -261,6 +261,6 @@ To see the script
       * To put the file backup.sql in your home directory, you could use `backup.sql`
     * Set format to `Plain`
 * The script you want is now in the text file named above.
-  * Copy the script from the text file into the SQL code block above!
+  * Copy the script from the text file into the SQL code block above! 
 
 ![Database Script](assets/jx-12-m3-script.gif)
